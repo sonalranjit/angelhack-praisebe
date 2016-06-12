@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/minimal_vertex_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/minimal_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/blur_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/blur_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/fog_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/fog_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/grey_scale_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/grey_scale_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/blend_screen_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/blend_screen_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/fog_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/fog_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/sepia_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/sepia_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/blur_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/blur_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/minimal_vertex_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/minimal_vertex_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/color_threshold_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/color_threshold_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/sepia_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/sepia_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/blend_screen_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/blend_screen_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/color_threshold_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/color_threshold_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/grey_scale_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/grey_scale_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/copy_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/copy_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/blend_add_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/blend_add_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/blend_add_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/blend_add_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/raw/vignette_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/raw/vignette_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/vignette_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/vignette_fragment_shader.glsl"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/raw/copy_fragment_shader.glsl",
+        "source": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/raw/copy_fragment_shader.glsl"
+    }
+]

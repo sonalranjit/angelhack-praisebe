@@ -1,0 +1,54 @@
+[
+    {
+        "outputFile": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 956
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 956
+                    }
+                }
+            }
+        ]
+    }
+]

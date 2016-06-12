@@ -1,0 +1,522 @@
+[
+    {
+        "outputFile": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 11,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endLine": 7,
+                        "endColumn": 11,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 45,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 45,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 44,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 44,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 45,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 45,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 45,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 45,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 43,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 43,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 43,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 43,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 49,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 49,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 52,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 52,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/exploded-aar/org.rajawali3d/rajawali/1.0.294-SNAPSHOT/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endLine": 19,
+                        "endColumn": 11,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 56,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1703
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1708,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/tango-examples-java/java_examples_utils/app/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 11,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endLine": 7,
+                        "endColumn": 11,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 45,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 45,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 44,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endColumn": 44,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 45,
+                    "endOffset": 335
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 45,
+                        "endOffset": 454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 340,
+                    "endColumn": 45,
+                    "endOffset": 381
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 459,
+                        "endColumn": 45,
+                        "endOffset": 500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 386,
+                    "endColumn": 43,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 505,
+                        "endColumn": 43,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 430,
+                    "endColumn": 43,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 43,
+                        "endOffset": 588
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 49,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 593,
+                        "endColumn": 49,
+                        "endOffset": 638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 52,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 643,
+                        "endColumn": 52,
+                        "endOffset": 691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/exploded-aar/will-tutorils/rajawali-1.0.294-20150626.103606-1/unspecified/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 696,
+                        "endLine": 19,
+                        "endColumn": 11,
+                        "endOffset": 848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1360,
+                    "endColumn": 56,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 1703
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1708,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1863
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/app/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 558
+                    }
+                }
+            }
+        ]
+    }
+]

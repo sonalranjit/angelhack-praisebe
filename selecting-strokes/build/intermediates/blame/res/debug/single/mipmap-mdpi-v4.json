@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/selecting-strokes/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/selecting-strokes/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/selecting-strokes/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/selecting-strokes/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

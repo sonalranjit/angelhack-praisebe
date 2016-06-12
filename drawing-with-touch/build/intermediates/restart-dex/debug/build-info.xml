@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="163667545866845"
+    token="-535166791507493380" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="337" />
+    <task
+        name="verifier"
+        duration="195" />
+
+    <artifact
+        location="/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/outputs/apk/drawing-with-touch-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="163667545866845" >
+        <artifact
+            location="/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/outputs/apk/drawing-with-touch-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

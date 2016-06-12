@@ -1,0 +1,442 @@
+[
+    {
+        "outputFile": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 19,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 45,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 46,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 50,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 57,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 55,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 50,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 50,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 68,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 68,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 61,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 61,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/using-penid/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 19,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 198,
+                        "endLine": 6,
+                        "endColumn": 19,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 152,
+                    "endColumn": 45,
+                    "endOffset": 193
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 198,
+                    "endColumn": 46,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 50,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 57,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 55,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 50,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 50,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 68,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 68,
+                        "endOffset": 193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 61,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 67,
+                        "endColumn": 61,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endLine": 19,
+                    "endColumn": 12,
+                    "endOffset": 878
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 883,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/using-penid/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

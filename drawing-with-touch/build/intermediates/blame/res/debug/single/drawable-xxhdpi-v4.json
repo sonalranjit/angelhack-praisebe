@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

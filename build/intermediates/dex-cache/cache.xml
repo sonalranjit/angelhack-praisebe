@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="901d9fbc9cba5906e025208a7f105b4488fed557">
+        <dex dex="/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/pre-dexed/debug/instant-run_9eebfc0d4a91b89de8aa38fa37ca67d66690fc13.jar" />
+    </item>
+    <item
+        jar="/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1b68d2a5ab18c91a6d41ac07ed14f59e70654df8">
+        <dex dex="/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/pre-dexed/debug/instant-run-bootstrap_54d44c7908e26615e361ed805ba9aedc3a0e18bd.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,594 @@
+[
+    {
+        "outputFile": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endLine": 22,
+                        "endColumn": 19,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 57,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 55,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 52,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 52,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 55,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 59,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 59,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 74,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 74,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 52,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 52,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 59,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 59,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 57,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 57,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 75,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 75,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 70,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 70,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 73,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 73,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1403,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 19,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endLine": 22,
+                        "endColumn": 19,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 57,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 55,
+                    "endOffset": 471
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 476,
+                    "endColumn": 52,
+                    "endOffset": 524
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 52,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 529,
+                    "endColumn": 55,
+                    "endOffset": 580
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 55,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 585,
+                    "endColumn": 59,
+                    "endOffset": 640
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 59,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 645,
+                    "endColumn": 74,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 74,
+                        "endOffset": 317
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 52,
+                    "endOffset": 768
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 322,
+                        "endColumn": 52,
+                        "endOffset": 370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 773,
+                    "endColumn": 59,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endColumn": 59,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 57,
+                    "endOffset": 886
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 57,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 891,
+                    "endColumn": 75,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 75,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 70,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 70,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 73,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 73,
+                        "endOffset": 181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 1398
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1403,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1558
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

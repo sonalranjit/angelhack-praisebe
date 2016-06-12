@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/layout/activity_draw_with_touch.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/layout/activity_draw_with_touch.xml"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/layout/activity_draw_with_touch.xml",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/layout/activity_draw_with_touch.xml"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/layout/list_item.xml"
+    }
+]

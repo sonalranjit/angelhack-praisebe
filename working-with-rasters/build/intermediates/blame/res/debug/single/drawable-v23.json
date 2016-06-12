@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/working-with-rasters/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/working-with-rasters/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

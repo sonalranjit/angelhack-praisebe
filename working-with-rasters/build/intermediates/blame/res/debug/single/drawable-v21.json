@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/working-with-rasters/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/working-with-rasters/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/working-with-rasters/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/working-with-rasters/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

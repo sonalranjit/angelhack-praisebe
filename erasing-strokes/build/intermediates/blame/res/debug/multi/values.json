@@ -1,0 +1,442 @@
+[
+    {
+        "outputFile": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 57,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 55,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 52,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 6,
+                        "startOffset": 545,
+                        "endColumn": 54,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 52,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 69,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 69,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 58,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 58,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 63,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 63,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 70,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 70,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "/Users/sonal/AndroidStudioProjects/will-tutorils/erasing-strokes/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 19,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 375,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 537
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 57,
+                    "endOffset": 275
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 280,
+                    "endColumn": 55,
+                    "endOffset": 331
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 336,
+                    "endColumn": 52,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 6,
+                        "startOffset": 545,
+                        "endColumn": 54,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 52,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 52,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 69,
+                    "endOffset": 507
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 69,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 512,
+                    "endColumn": 58,
+                    "endOffset": 566
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 251,
+                        "endColumn": 58,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 571,
+                    "endColumn": 63,
+                    "endOffset": 630
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 63,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 70,
+                    "endOffset": 701
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 70,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 706,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 992
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 997,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1152
+                },
+                "from": {
+                    "file": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/erasing-strokes/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

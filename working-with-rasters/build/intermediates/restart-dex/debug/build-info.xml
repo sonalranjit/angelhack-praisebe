@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="113998476054586"
+    token="-6655299440200253022" >
+
+    <task
+        name="javac"
+        duration="2043" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="466" />
+    <task
+        name="verifier"
+        duration="112" />
+
+    <artifact
+        location="/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/outputs/apk/working-with-rasters-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="113998476054586" >
+        <artifact
+            location="/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/working-with-rasters/build/outputs/apk/working-with-rasters-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

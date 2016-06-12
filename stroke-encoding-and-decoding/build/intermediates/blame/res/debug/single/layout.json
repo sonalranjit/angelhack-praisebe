@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/build/intermediates/res/merged/debug/layout/main_layout.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/src/main/res/layout/main_layout.xml"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/src/main/res/layout/activity_main.xml"
+    }
+]

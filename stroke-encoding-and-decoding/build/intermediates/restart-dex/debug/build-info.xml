@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="163624333539487"
+    token="3826107215081387207" >
+
+    <task
+        name="javac"
+        duration="287" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="398" />
+    <task
+        name="verifier"
+        duration="95" />
+
+    <artifact
+        location="/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/build/outputs/apk/stroke-encoding-and-decoding-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="163624333539487" >
+        <artifact
+            location="/Users/sonal/AndroidStudioProjects/will-tutorils/stroke-encoding-and-decoding/build/outputs/apk/stroke-encoding-and-decoding-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

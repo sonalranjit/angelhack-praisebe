@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-nodpi-v4/tree_of_life.png",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/drawable-nodpi/tree_of_life.png"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-nodpi-v4/shape.png",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/drawable-nodpi/shape.png"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-nodpi-v4/shape.png",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/drawable-nodpi/shape.png"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-nodpi-v4/tree_of_life.png",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/drawable-nodpi/tree_of_life.png"
+    },
+    {
+        "merged": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-nodpi-v4/fill.png",
+        "source": "/Users/sonal/Downloads/WillSDK_Android_1.8.1/sdk/will-tutorils/drawing-with-touch/src/main/res/drawable-nodpi/fill.png"
+    },
+    {
+        "merged": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/build/intermediates/res/merged/debug/drawable-nodpi-v4/fill.png",
+        "source": "/Users/sonal/AndroidStudioProjects/will-tutorils/drawing-with-touch/src/main/res/drawable-nodpi/fill.png"
+    }
+]
